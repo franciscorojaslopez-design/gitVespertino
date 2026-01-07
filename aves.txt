@@ -2,3 +2,7 @@ pinguino
 loro
 aguila
 peuco
+gallina
+papagayo
+carpintero
+martin pescador
